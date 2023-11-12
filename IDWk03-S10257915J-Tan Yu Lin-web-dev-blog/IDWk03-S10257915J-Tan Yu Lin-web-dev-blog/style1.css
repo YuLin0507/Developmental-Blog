@@ -17,8 +17,15 @@ h3{
 
 h4{
     font-family: 'Bree Serif', serif;
-    color: rgba(72,61,139,0.6)
+    color: rgba(72,61,139,0.6);
+    background-color: aliceblue;
 }
+
+div{
+  font-family: 'PT Sans Caption', sans-serif;
+  color: MidnightBlue
+}
+
 img {
     border-radius: 50%;
   }
