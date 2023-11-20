@@ -1,0 +1,54 @@
+h1{
+    font-family: 'Yeseva One', serif;
+    color: #800000
+}
+body{
+    background-color: lavender ;
+}
+h2{
+    font-family: 'Bree Serif', serif;
+    color: rgba(72,61,139,1)
+}
+
+h3{
+    font-family: 'Bree Serif', serif;
+    color: rgba(72,61,139,0.9)
+}
+
+h4{
+    font-family: 'Bree Serif', serif;
+    color: rgba(72,61,139,0.6);
+    background-color: aliceblue;
+}
+
+p{
+  font-family: 'PT Sans Caption', sans-serif;
+  color: MidnightBlue
+}
+
+img {
+    text-align: center;
+  }
+ul{
+    font-family: 'PT Sans Caption', sans-serif;
+    color: MidnightBlue
+}
+ol{
+  font-family: 'PT Sans Caption', sans-serif;
+  color: MidnightBlue
+}
+a:link { /* unvisited link */ color: cadetblue; }
+a:visited { /* visited link */ color: steelblue; }
+a:hover { /* moused over link */ color: cornflowerblue; }
+a:active { /* current link */ color: darkorchid; }
+a:focus { /* focused link */ color: violet; }
+h1 {
+    text-align: center;
+  }
+section {
+    text-align: center;
+  }
+div{
+    text-align: justify; /* For Edge */
+  text-align-last: center;
+}
